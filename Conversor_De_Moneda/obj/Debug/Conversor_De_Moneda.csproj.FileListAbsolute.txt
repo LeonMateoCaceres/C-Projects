@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\bin\Debug\Conversor_De_Moneda.exe.config
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\bin\Debug\Conversor_De_Moneda.exe
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\bin\Debug\Conversor_De_Moneda.pdb
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\obj\Debug\Conversor_De_Moneda.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\obj\Debug\Conversor_De_Moneda.Form1.resources
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\obj\Debug\Conversor_De_Moneda.Properties.Resources.resources
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\obj\Debug\Conversor_De_Moneda.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\obj\Debug\Conversor_De_Moneda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\obj\Debug\Conversor_De_Moneda.exe
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Moneda\obj\Debug\Conversor_De_Moneda.pdb
