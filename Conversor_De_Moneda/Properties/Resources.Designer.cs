@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Calculadora_De_Promedios_De_Calificaciones.Properties
+namespace Conversor_De_Moneda.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Calculadora_De_Promedios_De_Calificaciones.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Calculadora_De_Promedios_De_Calificaciones.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Conversor_De_Moneda.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

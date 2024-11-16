@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Calculadora_De_Promedios_De_Calificaciones.Properties
+namespace Conversor_De_Moneda.Properties
 {
 
 

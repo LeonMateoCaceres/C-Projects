@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Calculadora_De_Promedios_De_Calificaciones
+namespace Conversor_De_Moneda
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Calculadora_De_Promedios_De_Calificaciones
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CalculadoraDePromediosForm());
+            Application.Run(new Form1());
         }
     }
 }
