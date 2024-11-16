@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Conversor_De_Temperatura.Properties
+namespace Calculadora_De_Promedios_De_Calificaciones.Properties
 {
 
 

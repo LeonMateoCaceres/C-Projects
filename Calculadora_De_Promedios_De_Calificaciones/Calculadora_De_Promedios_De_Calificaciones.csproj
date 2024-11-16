@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{77AF0460-33B6-4E13-A9F3-F33D14523B49}</ProjectGuid>
+    <ProjectGuid>{87989225-E4B6-47E5-A291-FF8A8E4B60F3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Conversor_De_Temperatura</RootNamespace>
-    <AssemblyName>Conversor_De_Temperatura</AssemblyName>
+    <RootNamespace>Calculadora_De_Promedios_De_Calificaciones</RootNamespace>
+    <AssemblyName>Calculadora_De_Promedios_De_Calificaciones</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

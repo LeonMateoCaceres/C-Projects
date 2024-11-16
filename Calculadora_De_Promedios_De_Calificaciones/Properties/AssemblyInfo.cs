@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Conversor_De_Temperatura")]
+[assembly: AssemblyTitle("Calculadora_De_Promedios_De_Calificaciones")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Conversor_De_Temperatura")]
+[assembly: AssemblyProduct("Calculadora_De_Promedios_De_Calificaciones")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("77af0460-33b6-4e13-a9f3-f33d14523b49")]
+[assembly: Guid("87989225-e4b6-47e5-a291-ff8a8e4b60f3")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Conversor_De_Temperatura
+namespace Calculadora_De_Promedios_De_Calificaciones
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Conversor_De_Temperatura
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new conversorDeTemperaturaForm());
+            Application.Run(new CalculadoraDePromediosForm());
         }
     }
 }
