@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tarea_1_SumasYRestas
+namespace Conversor_De_Temperatura
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Tarea_1_SumasYRestas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Calculadora_Basica_Form());
+            Application.Run(new conversorDeTemperaturaForm());
         }
     }
 }

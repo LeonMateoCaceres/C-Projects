@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tarea_1_SumasYRestas.Properties
+namespace Conversor_De_Temperatura.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Tarea_1_SumasYRestas.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Tarea_1_SumasYRestas.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Conversor_De_Temperatura.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

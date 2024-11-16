@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tarea_1_SumasYRestas.Properties
+namespace Conversor_De_Temperatura.Properties
 {
 
 
