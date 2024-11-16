@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\obj\Debug\Conversor_De_Temperatura.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\obj\Debug\Conversor_De_Temperatura.conversorDeTemperaturaForm.resources
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\obj\Debug\Conversor_De_Temperatura.Properties.Resources.resources
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\obj\Debug\Conversor_De_Temperatura.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\obj\Debug\Conversor_De_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\bin\Debug\Conversor_De_Temperatura.exe.config
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\bin\Debug\Conversor_De_Temperatura.exe
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\bin\Debug\Conversor_De_Temperatura.pdb
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\obj\Debug\Conversor_De_Temperatura.exe
+C:\Users\Usuario\Documents\VS C#\Conversor_De_Temperatura\obj\Debug\Conversor_De_Temperatura.pdb
