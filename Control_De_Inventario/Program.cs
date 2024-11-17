@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Login_Singup
+namespace Control_De_Inventario
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Login_Singup
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new loginFRM());
+            Application.Run(new frmStock());
         }
     }
 }

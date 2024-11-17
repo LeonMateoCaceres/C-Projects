@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Login_Singup
+namespace Control_De_Inventario
 {
     public static class Data
     {
-        public static List<Usuarios> BD = new List<Usuarios>();
+        public static List<Productos> items = new List<Productos>();
     }
 }

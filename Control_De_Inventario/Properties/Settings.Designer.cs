@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Login_Singup.Properties
+namespace Control_De_Inventario.Properties
 {
 
 

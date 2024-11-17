@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\bin\Debug\Control_De_Inventario.exe.config
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\bin\Debug\Control_De_Inventario.exe
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\bin\Debug\Control_De_Inventario.pdb
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\obj\Debug\Control_De_Inventario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\obj\Debug\Control_De_Inventario.frmStock.resources
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\obj\Debug\Control_De_Inventario.Properties.Resources.resources
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\obj\Debug\Control_De_Inventario.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\obj\Debug\Control_De_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\obj\Debug\Control_De_Inventario.exe
+C:\Users\Usuario\Documents\VS C#\Control_De_Inventario\obj\Debug\Control_De_Inventario.pdb
