@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\VS C#\Login_Singup\bin\Debug\Login_Singup.exe.config
+C:\Users\Usuario\Documents\VS C#\Login_Singup\bin\Debug\Login_Singup.exe
+C:\Users\Usuario\Documents\VS C#\Login_Singup\bin\Debug\Login_Singup.pdb
+C:\Users\Usuario\Documents\VS C#\Login_Singup\obj\Debug\Login_Singup.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\VS C#\Login_Singup\obj\Debug\Login_Singup.loginFRM.resources
+C:\Users\Usuario\Documents\VS C#\Login_Singup\obj\Debug\Login_Singup.Properties.Resources.resources
+C:\Users\Usuario\Documents\VS C#\Login_Singup\obj\Debug\Login_Singup.registroFRM.resources
+C:\Users\Usuario\Documents\VS C#\Login_Singup\obj\Debug\Login_Singup.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\VS C#\Login_Singup\obj\Debug\Login_Singup.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\VS C#\Login_Singup\obj\Debug\Login_Singup.exe
+C:\Users\Usuario\Documents\VS C#\Login_Singup\obj\Debug\Login_Singup.pdb

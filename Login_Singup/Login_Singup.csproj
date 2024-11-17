@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4D0B36D8-7755-4BCA-8946-504CC2791C60}</ProjectGuid>
+    <ProjectGuid>{11700C0B-01D7-4B03-A0FE-1DDB16B53EBC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Conversor_De_Moneda</RootNamespace>
-    <AssemblyName>Conversor_De_Moneda</AssemblyName>
+    <RootNamespace>Login_Singup</RootNamespace>
+    <AssemblyName>Login_Singup</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Data.cs" />
+    <Compile Include="loginFRM.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="loginFRM.Designer.cs">
+      <DependentUpon>loginFRM.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="registroFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registroFRM.Designer.cs">
+      <DependentUpon>registroFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs" />
+    <EmbeddedResource Include="loginFRM.resx">
+      <DependentUpon>loginFRM.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,6 +74,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="registroFRM.resx">
+      <DependentUpon>registroFRM.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
