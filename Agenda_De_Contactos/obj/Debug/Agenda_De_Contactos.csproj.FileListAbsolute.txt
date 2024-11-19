@@ -1,0 +1,20 @@
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\bin\Debug\Agenda_De_Contactos.exe.config
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\bin\Debug\Agenda_De_Contactos.exe
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\bin\Debug\Agenda_De_Contactos.pdb
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.frmAgenda.resources
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.exe
+C:\Users\Usuario\source\repos\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.pdb
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\bin\Debug\Agenda_De_Contactos.exe.config
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\bin\Debug\Agenda_De_Contactos.exe
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\bin\Debug\Agenda_De_Contactos.pdb
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.frmAgenda.resources
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.Properties.Resources.resources
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.exe
+C:\Users\Usuario\Documents\VS C#\Agenda_De_Contactos\obj\Debug\Agenda_De_Contactos.pdb
